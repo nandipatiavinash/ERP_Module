@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="white"/>
+  <circle cx="256" cy="256" r="232" stroke="#282824" stroke-width="12"/>
+  <path d="M58 178C82 82 167 28 292 19" stroke="#282824" stroke-width="12" stroke-linecap="round"/>
+  <path d="M455 164C490 253 473 390 347 463" stroke="#282824" stroke-width="12" stroke-linecap="round"/>
+  <path d="M84 359C125 444 225 482 333 460" stroke="#282824" stroke-width="12" stroke-linecap="round"/>
+  <path d="M119 142H220C268 142 300 169 300 213C300 247 279 272 244 284L319 392H249L181 292H158V392H119V142ZM158 178V257H214C243 257 260 242 260 218C260 193 243 178 214 178H158Z" fill="#282824"/>
+  <path d="M322 142H395L306 244L414 392H342L263 279L322 142Z" fill="#282824"/>
+  <path d="M128 411H384" stroke="#282824" stroke-width="5" stroke-linecap="round"/>
+  <text x="256" y="460" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="14" fill="#282824">GLOBAL</text>
+</svg>

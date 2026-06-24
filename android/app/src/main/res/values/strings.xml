@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RK Global Fabric ERP</string>
+    <string name="title_activity_main">RK Global Fabric ERP</string>
+    <string name="package_name">com.rkglobal.fabricerp</string>
+    <string name="custom_url_scheme">com.rkglobal.fabricerp</string>
+</resources>

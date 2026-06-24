@@ -1,0 +1,10 @@
+export function PageHeader({ title, description, children }: { title: string; description?: string; children?: React.ReactNode }) {
+  return (
+    <div className="mb-5 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+      <div>
+        <h1 className="text-2xl font-semibold tracking-normal">{title}</h1>
+      </div>
+      {children}
+    </div>
+  );
+}
