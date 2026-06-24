@@ -3,7 +3,7 @@
   "appName": "RK Global Fabric ERP",
   "webDir": "out",
   "server": {
-    "url": "https://erp-xi-rose.vercel.app",
+    "url": "https://polymer-fabric-erp.vercel.app",
     "cleartext": true
   },
   "plugins": {
